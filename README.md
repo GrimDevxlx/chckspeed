@@ -1,2 +1,0 @@
-# chckspeed
- typing
